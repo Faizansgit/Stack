@@ -10,6 +10,7 @@ button{
   background-color: dodgerblue;
   color: white;
   border-radius: 20px;
+  margin-bottom: 10px;
 }
 h1{
   text-align: center;
@@ -53,6 +54,8 @@ li{
   padding: 6px;
 }
 .footer{
-  background-color: black;
-  
+  padding-top:40px;
+}
+label{
+  text-align: end;
 }
